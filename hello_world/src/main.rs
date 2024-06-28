@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Rust! Modified version.");
+    println!("Second version - Hello, Rust! Modified version.");
 }
